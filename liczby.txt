@@ -4,3 +4,5 @@ trzy
 cztery
 piêæ
 szeœæ
+siedem
+osiem
